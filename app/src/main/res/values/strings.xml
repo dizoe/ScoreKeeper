@@ -1,0 +1,10 @@
+<resources>
+    <string name="team_a">Batman</string>
+    <string name="team_b">Superman</string>
+    <string name="app_name">Score Keeper</string>
+    <string name="touch_down">Touchdown</string>
+    <string name="field_goal">Field Goal</string>
+    <string name="two_points">2 Point Conversion</string>
+    <string name="extra_point">Extra Point</string>
+    <string name="reset_button">Martha</string>
+</resources>
